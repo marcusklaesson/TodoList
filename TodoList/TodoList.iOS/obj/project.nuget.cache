@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fIDoFZXhTLHmRzUm/Y0wFFMc1M24ODTfnkhUBAhaIDmmazWmWkXHVudzR37Z3lyGWRhEmJIS4Ys+Brv7JIMJYA==",
+  "success": true,
+  "projectFilePath": "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList.iOS/TodoList.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/marcusklaesson/.nuget/packages/fody/6.3.0/fody.6.3.0.nupkg.sha512",
+    "/Users/marcusklaesson/.nuget/packages/propertychanged.fody/3.3.0/propertychanged.fody.3.3.0.nupkg.sha512",
+    "/Users/marcusklaesson/.nuget/packages/xamarin.forms/4.4.0.991640/xamarin.forms.4.4.0.991640.nupkg.sha512"
+  ],
+  "logs": []
+}

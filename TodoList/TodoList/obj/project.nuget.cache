@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ABwRpCnzr80NT4gMlvrSOhfhpps2Xrvl+jMSd9qRo8tWEaFMBq/WJrI2nqbNEyus49A6u9ysq1zIEPfAUXmGog==",
+  "success": true,
+  "projectFilePath": "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList/TodoList.csproj",
+  "expectedPackageFiles": [
+    "/Users/marcusklaesson/.nuget/packages/fody/6.3.0/fody.6.3.0.nupkg.sha512",
+    "/Users/marcusklaesson/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/marcusklaesson/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/marcusklaesson/.nuget/packages/propertychanged.fody/3.3.0/propertychanged.fody.3.3.0.nupkg.sha512",
+    "/Users/marcusklaesson/.nuget/packages/xamarin.forms/4.4.0.991640/xamarin.forms.4.4.0.991640.nupkg.sha512"
+  ],
+  "logs": []
+}
