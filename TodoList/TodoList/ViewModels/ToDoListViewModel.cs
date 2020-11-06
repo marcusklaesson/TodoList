@@ -1,48 +1,60 @@
-
-using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
+using TodoList.Models;
 using Xamarin.Forms;
 
-namespace TodoList
+namespace TodoList.ViewModels
 {
-    public class ToDoListViewModel: BaseFodyObservable
+    class TodoListViewModel : BaseFodyObservable
     {
-
-        public ToDoListViewModel()
+        public TodoListViewModel(INavigation navigation)
         {
-            GroupedTodoList = GetGroupedTodoList();
+            _navigation = navigation;
+            GetGroupedTodoList().ContinueWith(t =>
+            {
+                GroupedTodoList = t.Result;
+            });
             Delete = new Command<TodoItem>(HandleDelete);
             ChangeIsCompleted = new Command<TodoItem>(HandleChangeIsCompleted);
+            AddItem = new Command(HandleAddItem);
         }
+
+        private INavigation _navigation;
         public ILookup<string, TodoItem> GroupedTodoList { get; set; }
-        public string Title => "My Todo List";
-        
+        public string Title => "My Todo list";
+
+        private async Task<ILookup<string, TodoItem>> GetGroupedTodoList()
+        {
+            return (await App.TodoRepository.GetList())
+                .OrderBy(t => t.IsCompleted)
+                .ToLookup(t => t.IsCompleted? "Completed" : "Active");
+        }
+
         public Command<TodoItem> Delete { get; set; }
-
-        public void HandleDelete(TodoItem itemToDelete)
+        public async void HandleDelete(TodoItem itemToDelete)
         {
-            _todoList.Remove(itemToDelete);
-            GroupedTodoList = GetGroupedTodoList();
+            await App.TodoRepository.DeleteItem(itemToDelete);
+            // Update displayed list
+            GroupedTodoList = await GetGroupedTodoList();
         }
+        
         public Command<TodoItem> ChangeIsCompleted { get; set; }
-
-        public void HandleChangeIsCompleted(TodoItem itemToUpdate)
+        public async void HandleChangeIsCompleted(TodoItem itemToUpdate)
         {
-            itemToUpdate.isCompleted = !itemToUpdate.isCompleted;
-            GroupedTodoList = GetGroupedTodoList();
+            await App.TodoRepository.ChangeItemIsCompleted(itemToUpdate);
+            // Update displayed list
+            GroupedTodoList = await GetGroupedTodoList();
         }
 
-        private List<TodoItem> _todoList = new List<TodoItem>
+        public Command AddItem { get; set; }
+        public async void HandleAddItem()
         {
-            new TodoItem {Id = 0, Title = "Tjena", isCompleted = true},
-            new TodoItem {Id = 1, Title = "test1"},
-            new TodoItem {Id = 2, Title = "test2"}
-        };
+            await _navigation.PushModalAsync(new AddTodoItem());
+        }
 
-        private ILookup<string, TodoItem> GetGroupedTodoList()
+        public async Task RefreshTaskList()
         {
-            return _todoList.OrderBy(t => t.isCompleted)
-                .ToLookup(t => t.isCompleted? "Completed" : "Active");
+            GroupedTodoList = await GetGroupedTodoList();
         }
     }
 }

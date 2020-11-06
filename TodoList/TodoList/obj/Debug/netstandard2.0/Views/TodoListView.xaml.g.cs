@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("TodoList.Views.TodoListView.xaml", "Views/TodoListView.xaml", typeof(global::TodoList.TodoListView))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("TodoList.Views.TodoListView.xaml", "Views/TodoListView.xaml", typeof(global::TodoList.Views.TodoListView))]
 
-namespace TodoList {
+namespace TodoList.Views {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views/TodoListView.xaml")]

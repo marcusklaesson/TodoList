@@ -1,6 +1,8 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using TodoList.Persistence;
+using TodoList.Views;
 
 [assembly: XamlCompilation(XamlCompilationOptions.Compile)]
 
@@ -8,6 +10,7 @@ namespace TodoList
 {
     public partial class App : Application
     {
+        public static TodoRepository TodoRepository = new TodoRepository();
         public App()
         {
             InitializeComponent();

@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList.Android/TodoList.Android.csproj": {}
+    "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList.Android/TodoList.Android.csproj": {}
   },
   "projects": {
-    "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList.Android/TodoList.Android.csproj": {
+    "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList.Android/TodoList.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList.Android/TodoList.Android.csproj",
+        "projectUniqueName": "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList.Android/TodoList.Android.csproj",
         "projectName": "TodoList.Android",
-        "projectPath": "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList.Android/TodoList.Android.csproj",
-        "packagesPath": "/Users/marcusklaesson/.nuget/packages/",
-        "outputPath": "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList.Android/obj/",
+        "projectPath": "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList.Android/TodoList.Android.csproj",
+        "packagesPath": "/Users/henrikdore/.nuget/packages/",
+        "outputPath": "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "/Users/marcusklaesson/.nuget/NuGet/NuGet.Config"
+          "/Users/henrikdore/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "monoandroid90"
@@ -26,8 +26,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList/TodoList.csproj": {
-                "projectPath": "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList/TodoList.csproj"
+              "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/TodoList.csproj": {
+                "projectPath": "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/TodoList.csproj"
               }
             }
           }
@@ -63,22 +63,26 @@
             "Xamarin.Forms": {
               "target": "Package",
               "version": "[4.4.0.991640, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.7.335, )"
             }
           }
         }
       }
     },
-    "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList/TodoList.csproj": {
+    "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/TodoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList/TodoList.csproj",
+        "projectUniqueName": "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/TodoList.csproj",
         "projectName": "TodoList",
-        "projectPath": "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList/TodoList.csproj",
-        "packagesPath": "/Users/marcusklaesson/.nuget/packages/",
-        "outputPath": "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList/obj/",
+        "projectPath": "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/TodoList.csproj",
+        "packagesPath": "/Users/henrikdore/.nuget/packages/",
+        "outputPath": "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/marcusklaesson/.nuget/NuGet/NuGet.Config"
+          "/Users/henrikdore/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -113,6 +117,10 @@
             "Xamarin.Forms": {
               "target": "Package",
               "version": "[4.4.0.991640, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.7.335, )"
             }
           },
           "imports": [

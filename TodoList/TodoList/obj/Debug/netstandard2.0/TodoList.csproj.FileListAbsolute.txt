@@ -11,3 +11,17 @@
 /Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList/bin/Debug/netstandard2.0/TodoList.pdb
 /Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList/obj/Debug/netstandard2.0/TodoList.csproj.Fody.CopyLocal.cache
 /Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/bin/Debug/netstandard2.0/TodoList.deps.json
+/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/bin/Debug/netstandard2.0/TodoList.dll
+/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/bin/Debug/netstandard2.0/TodoList.pdb
+/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/obj/Debug/netstandard2.0/TodoList.csprojAssemblyReference.cache
+/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/obj/Debug/netstandard2.0/Views/TodoListView.xaml.g.cs
+/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/obj/Debug/netstandard2.0/TodoList.AssemblyInfoInputs.cache
+/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/obj/Debug/netstandard2.0/TodoList.AssemblyInfo.cs
+/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/obj/Debug/netstandard2.0/TodoList.csproj.CoreCompileInputs.cache
+/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/obj/Debug/netstandard2.0/TodoList.csproj.Fody.CopyLocal.cache
+/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/obj/Debug/netstandard2.0/TodoList.dll
+/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/obj/Debug/netstandard2.0/TodoList.pdb
+/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/obj/Debug/netstandard2.0/AddTodoItem.xaml.g.cs
