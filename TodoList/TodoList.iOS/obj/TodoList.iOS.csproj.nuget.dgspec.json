@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList.iOS/TodoList.iOS.csproj": {}
+    "/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/TodoList.iOS.csproj": {}
   },
   "projects": {
-    "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList.iOS/TodoList.iOS.csproj": {
+    "/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/TodoList.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList.iOS/TodoList.iOS.csproj",
+        "projectUniqueName": "/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/TodoList.iOS.csproj",
         "projectName": "TodoList.iOS",
-        "projectPath": "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList.iOS/TodoList.iOS.csproj",
-        "packagesPath": "/Users/henrikdore/.nuget/packages/",
-        "outputPath": "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList.iOS/obj/",
+        "projectPath": "/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/TodoList.iOS.csproj",
+        "packagesPath": "/Users/cyrille/.nuget/packages/",
+        "outputPath": "/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "/Users/henrikdore/.nuget/NuGet/NuGet.Config"
+          "/Users/cyrille/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "xamarinios10"
@@ -26,8 +26,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/TodoList.csproj": {
-                "projectPath": "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/TodoList.csproj"
+              "/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList/TodoList.csproj": {
+                "projectPath": "/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList/TodoList.csproj"
               }
             }
           }
@@ -39,6 +39,10 @@
             "PropertyChanged.Fody": {
               "target": "Package",
               "version": "[3.3.0, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.0-pre3, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
@@ -63,17 +67,17 @@
         }
       }
     },
-    "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/TodoList.csproj": {
+    "/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList/TodoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/TodoList.csproj",
+        "projectUniqueName": "/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList/TodoList.csproj",
         "projectName": "TodoList",
-        "projectPath": "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/TodoList.csproj",
-        "packagesPath": "/Users/henrikdore/.nuget/packages/",
-        "outputPath": "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/obj/",
+        "projectPath": "/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList/TodoList.csproj",
+        "packagesPath": "/Users/cyrille/.nuget/packages/",
+        "outputPath": "/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/henrikdore/.nuget/NuGet/NuGet.Config"
+          "/Users/cyrille/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -104,6 +108,10 @@
             "PropertyChanged.Fody": {
               "target": "Package",
               "version": "[3.3.0, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.0-pre3, )"
             },
             "Xamarin.Forms": {
               "target": "Package",

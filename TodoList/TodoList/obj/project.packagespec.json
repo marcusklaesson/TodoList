@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/TodoList.csproj",
+    "projectUniqueName": "/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList/TodoList.csproj",
     "projectName": "TodoList",
-    "projectPath": "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/TodoList.csproj",
-    "outputPath": "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/obj/",
+    "projectPath": "/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList/TodoList.csproj",
+    "outputPath": "/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netstandard2.0"
@@ -35,6 +35,10 @@
         "PropertyChanged.Fody": {
           "target": "Package",
           "version": "[3.3.0, )"
+        },
+        "Xamarin.Essentials": {
+          "target": "Package",
+          "version": "[1.6.0-pre3, )"
         },
         "Xamarin.Forms": {
           "target": "Package",
