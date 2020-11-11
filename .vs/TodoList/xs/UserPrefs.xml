@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{837E12CF-E106-4292-9A3B-0EC0E0C6B1F5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TodoList/TodoList.Android/Properties/AndroidManifest.xml">
+    <Files>
+      <File FileName="TodoList/TodoList.Android/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="TodoList/TodoList.Android/FileHelper.cs" Line="1" Column="1" />
+      <File FileName="TodoList/TodoList.Android/Properties/AndroidManifest.xml" />
+      <File FileName="TodoList/TodoList/BaseFodyObservable.cs" Line="5" Column="38" />
+      <File FileName="TodoList/TodoList/FodyWeavers.xml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TodoList" expanded="True">
+            <Node name="TodoList" expanded="True" />
+            <Node name="TodoList.Android" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="AndroidManifest.xml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TodoList.Android PreferredExecutionTarget="Android.Pixel_3a_API_30" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

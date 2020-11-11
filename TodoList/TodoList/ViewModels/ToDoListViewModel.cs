@@ -2,6 +2,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using TodoList.Models;
 using Xamarin.Forms;
+using Xamarin.Essentials;
 
 namespace TodoList.ViewModels
 {

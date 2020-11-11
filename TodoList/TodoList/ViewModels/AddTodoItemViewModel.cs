@@ -1,4 +1,6 @@
+using System;
 using TodoList.Models;
+using Xamarin.Essentials;
 using Xamarin.Forms;
 
 namespace TodoList.ViewModels
@@ -19,14 +21,18 @@ namespace TodoList.ViewModels
         public Command Save { get; set; }
         public async void HandleSave()
         {
+            Vibration.Vibrate();
             await App.TodoRepository.AddItem(new TodoItem { Title = TodoTitle });
             await _navigation.PopModalAsync();
+            Vibration.Vibrate();
         }
 
         public Command Cancel { get; set; }
         public async void HandleCancel()
         {
+            Vibration.Vibrate();
             await _navigation.PopModalAsync();
+            Vibration.Vibrate();
         }
     }
 }

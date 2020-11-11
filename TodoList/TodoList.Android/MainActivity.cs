@@ -8,7 +8,7 @@ using Android.OS;
 
 namespace TodoList.Android
 {
-    [Activity(Label = "TodoList", Theme = "@style/MainTheme", MainLauncher = true,
+    [Activity(Label = "TodoList", Theme = "@style/MainTheme", MainLauncher = true, Icon = "@drawable/andicon",
         ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
     {
