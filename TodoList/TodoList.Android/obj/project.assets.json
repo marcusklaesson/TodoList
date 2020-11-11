@@ -2202,20 +2202,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/henrikdore/.nuget/packages/": {}
+    "/Users/marcusklaesson/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList.Android/TodoList.Android.csproj",
+      "projectUniqueName": "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList.Android/TodoList.Android.csproj",
       "projectName": "TodoList.Android",
-      "projectPath": "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList.Android/TodoList.Android.csproj",
-      "packagesPath": "/Users/henrikdore/.nuget/packages/",
-      "outputPath": "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList.Android/obj/",
+      "projectPath": "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList.Android/TodoList.Android.csproj",
+      "packagesPath": "/Users/marcusklaesson/.nuget/packages/",
+      "outputPath": "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/henrikdore/.nuget/NuGet/NuGet.Config"
+        "/Users/marcusklaesson/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid90"
@@ -2226,8 +2226,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/TodoList.csproj": {
-              "projectPath": "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/TodoList.csproj"
+            "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList/TodoList.csproj": {
+              "projectPath": "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList/TodoList.csproj"
             }
           }
         }

@@ -875,19 +875,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/henrikdore/.nuget/packages/": {}
+    "/Users/marcusklaesson/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/TodoList.csproj",
+      "projectUniqueName": "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList/TodoList.csproj",
       "projectName": "TodoList",
-      "projectPath": "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/TodoList.csproj",
-      "packagesPath": "/Users/henrikdore/.nuget/packages/",
-      "outputPath": "/Users/henrikdore/Documents/todoList/TodoList/TodoList/TodoList/obj/",
+      "projectPath": "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList/TodoList.csproj",
+      "packagesPath": "/Users/marcusklaesson/.nuget/packages/",
+      "outputPath": "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/henrikdore/.nuget/NuGet/NuGet.Config"
+        "/Users/marcusklaesson/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
