@@ -9,10 +9,6 @@
     <ContentPage.Resources>
         <ResourceDictionary>
             <local:ChangeCompleteActionTextConverter x:Key="ChangeCompletedActionTextConverter" />
-            <Style x:Key="LabelStyle" TargetType="Label">
-                <Setter Property="TextColor" Value="#667966"/>
-                <Setter Property="FontSize" Value="20"/>
-            </Style>
         </ResourceDictionary>
     </ContentPage.Resources>
     <ContentPage.Content>
@@ -34,10 +30,7 @@
                     </DataTemplate>
                 </ListView.ItemTemplate>
             </ListView>
-            
-            
             <Button Command="{Binding AddItem}" Text="Add Todo" FontSize="24" />
-            <Label x:Name="ThemeInfo" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" Style="{StaticResource LabelStyle}"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

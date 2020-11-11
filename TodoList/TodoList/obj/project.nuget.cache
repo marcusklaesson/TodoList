@@ -1,26 +1,6 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "mjN1+As7NTxqEJ0SEpqDyVvS3wV+dN+spdTVee52ZkSyXKnzt1G5f7pVag+XZpwARK4LV4U5x3GS4F20FpDTRA==",
-  "success": true,
-  "projectFilePath": "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList/TodoList.csproj",
-  "expectedPackageFiles": [
-    "/Users/marcusklaesson/.nuget/packages/fody/6.3.0/fody.6.3.0.nupkg.sha512",
-    "/Users/marcusklaesson/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/Users/marcusklaesson/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
-    "/Users/marcusklaesson/.nuget/packages/propertychanged.fody/3.3.0/propertychanged.fody.3.3.0.nupkg.sha512",
-    "/Users/marcusklaesson/.nuget/packages/sqlite-net-pcl/1.7.335/sqlite-net-pcl.1.7.335.nupkg.sha512",
-    "/Users/marcusklaesson/.nuget/packages/sqlitepclraw.bundle_green/2.0.3/sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",
-    "/Users/marcusklaesson/.nuget/packages/sqlitepclraw.core/2.0.3/sqlitepclraw.core.2.0.3.nupkg.sha512",
-    "/Users/marcusklaesson/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.3/sqlitepclraw.lib.e_sqlite3.2.0.3.nupkg.sha512",
-    "/Users/marcusklaesson/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.0.3/sqlitepclraw.provider.e_sqlite3.2.0.3.nupkg.sha512",
-    "/Users/marcusklaesson/.nuget/packages/system.buffers/4.4.0/system.buffers.4.4.0.nupkg.sha512",
-    "/Users/marcusklaesson/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
-    "/Users/marcusklaesson/.nuget/packages/system.numerics.vectors/4.4.0/system.numerics.vectors.4.4.0.nupkg.sha512",
-    "/Users/marcusklaesson/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
-    "/Users/marcusklaesson/.nuget/packages/xamarin.forms/4.4.0.991640/xamarin.forms.4.4.0.991640.nupkg.sha512"
-=======
-  "dgSpecHash": "uR/CKC9YonIhJ8fmBs7B6WvmylcWvoijMc1aS590WCc/Uf4mrj2YsekS+dcHGjmv/oj9k7iUlXmuUgKG43A/AQ==",
+  "dgSpecHash": "WaiSE7HuGJfjD+iy4dYGRLrZ5RM1idJSbzy4tpZHEU+SQiA+zdkk3rBry0Me97KbjuKgkUrPmyP9W7LhOziCwg==",
   "success": true,
   "projectFilePath": "/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList/TodoList.csproj",
   "expectedPackageFiles": [
@@ -35,11 +15,9 @@
     "/Users/cyrille/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.0.3/sqlitepclraw.provider.e_sqlite3.2.0.3.nupkg.sha512",
     "/Users/cyrille/.nuget/packages/system.buffers/4.4.0/system.buffers.4.4.0.nupkg.sha512",
     "/Users/cyrille/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
-    "/Users/cyrille/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/cyrille/.nuget/packages/system.numerics.vectors/4.4.0/system.numerics.vectors.4.4.0.nupkg.sha512",
     "/Users/cyrille/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
-    "/Users/cyrille/.nuget/packages/xamarin.essentials/1.6.0-pre3/xamarin.essentials.1.6.0-pre3.nupkg.sha512",
     "/Users/cyrille/.nuget/packages/xamarin.forms/4.4.0.991640/xamarin.forms.4.4.0.991640.nupkg.sha512"
->>>>>>> cyrille
   ],
   "logs": []
 }

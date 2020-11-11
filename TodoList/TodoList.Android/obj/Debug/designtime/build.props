@@ -11,15 +11,9 @@ embedassembliesintoapk=false
 androidlinkmode=none
 androidlinkskip=
 androidsdkbuildtoolsversion=29.0.2
-<<<<<<< HEAD
-androidsdkpath=/users/marcusklaesson/library/android/sdk/
-androidndkpath=
-javasdkpath=/users/marcusklaesson/library/developer/xamarin/jdk/microsoft_dist_openjdk_1.8.0.25/
-=======
 androidsdkpath=/users/cyrille/library/android/sdk/
 androidndkpath=
 javasdkpath=/users/cyrille/.local/share/jetbrains/jdk8/jdk/contents/home/
->>>>>>> cyrille
 androidsequencepointsmode=none
 xamarinandroidversion=11.0.2-0
 monosymbolarchive=false
@@ -30,11 +24,7 @@ androidgeneratejnimarshalmethods=false
 os=unix
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-<<<<<<< HEAD
-_nugetassetstimestamp=637402690110382152
-=======
-_nugetassetstimestamp=637403482506730351
->>>>>>> cyrille
+_nugetassetstimestamp=637406850375784929
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a

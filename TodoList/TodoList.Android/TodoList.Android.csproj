@@ -14,6 +14,7 @@
         <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
         <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
         <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
+        <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
         <TargetFrameworkVersion>v9.0</TargetFrameworkVersion>
         <AndroidHttpClientHandlerType>Xamarin.Android.Net.AndroidClientHandler</AndroidHttpClientHandlerType>
     </PropertyGroup>
@@ -47,7 +48,6 @@
     <ItemGroup>
         <PackageReference Include="PropertyChanged.Fody" Version="3.3.0" />
         <PackageReference Include="sqlite-net-pcl" Version="1.7.335" />
-        <PackageReference Include="Xamarin.Essentials" Version="1.6.0-pre3" />
         <PackageReference Include="Xamarin.Forms" Version="4.4.0.991640" />
         <PackageReference Include="Xamarin.Android.Support.Design" Version="28.0.0.3" />
         <PackageReference Include="Xamarin.Android.Support.v7.AppCompat" Version="28.0.0.3" />
@@ -67,7 +67,6 @@
         <None Include="Properties\AndroidManifest.xml" />
     </ItemGroup>
     <ItemGroup>
-        <AndroidResource Include="Resources\drawable\andicon.png" />
         <AndroidResource Include="Resources\layout\Tabbar.axml" />
         <AndroidResource Include="Resources\layout\Toolbar.axml" />
         <AndroidResource Include="Resources\values\styles.xml" />
@@ -75,7 +74,7 @@
     </ItemGroup>
     <ItemGroup>
         <ProjectReference Include="..\TodoList\TodoList.csproj">
-            <Project>{B317947A-838D-40CB-B80A-4A2DCE953BF1}</Project>
+            <Project>{8281A312-EAEA-484D-A422-042E912EA407}</Project>
             <Name>TodoList</Name>
         </ProjectReference>
     </ItemGroup>
