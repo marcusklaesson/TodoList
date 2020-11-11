@@ -14,84 +14,12 @@
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./AppIcon.appiconset/[][iphone][20x20][][][3x][][]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The file "iosicon-16.png" for the image set "AppIcon" does not exist.</string>
-			<key>type</key>
-			<string>Missing Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
 				<string>./AppIcon.appiconset/[][ipad][83.5x83.5][][][2x][][]</string>
 			</array>
 			<key>catalog</key>
 			<string>/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
 			<string>The file "iosicon-1.png" for the image set "AppIcon" does not exist.</string>
-			<key>type</key>
-			<string>Missing Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./AppIcon.appiconset/[][ipad][76x76][][][2x][][]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The file "iosicon-2.png" for the image set "AppIcon" does not exist.</string>
-			<key>type</key>
-			<string>Missing Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./AppIcon.appiconset/[][iphone][60x60][][][3x][][]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The file "iosicon-11.png" for the image set "AppIcon" does not exist.</string>
-			<key>type</key>
-			<string>Missing Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./AppIcon.appiconset/[][iphone][29x29][][][3x][][]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The file "iosicon-15.png" for the image set "AppIcon" does not exist.</string>
-			<key>type</key>
-			<string>Missing Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./AppIcon.appiconset/[][iphone][40x40][][][2x][][]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The file "iosicon-14.png" for the image set "AppIcon" does not exist.</string>
-			<key>type</key>
-			<string>Missing Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./AppIcon.appiconset/[][ipad][29x29][][][2x][][]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The file "iosicon-6.png" for the image set "AppIcon" does not exist.</string>
 			<key>type</key>
 			<string>Missing Content</string>
 		</dict>
@@ -110,6 +38,30 @@
 		<dict>
 			<key>affected-items</key>
 			<array>
+				<string>./AppIcon.appiconset/[][iphone][29x29][][][2x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "iosicon-17.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][iphone][60x60][][][3x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "iosicon-11.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
 				<string>./AppIcon.appiconset/[][iphone][20x20][][][2x][][]</string>
 			</array>
 			<key>catalog</key>
@@ -122,12 +74,24 @@
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./AppIcon.appiconset/[][ipad][40x40][][][1x][][]</string>
+				<string>./AppIcon.appiconset/[][iphone][40x40][][][2x][][]</string>
 			</array>
 			<key>catalog</key>
 			<string>/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
-			<string>The file "iosicon-5.png" for the image set "AppIcon" does not exist.</string>
+			<string>The file "iosicon-14.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][iphone][20x20][][][3x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "iosicon-16.png" for the image set "AppIcon" does not exist.</string>
 			<key>type</key>
 			<string>Missing Content</string>
 		</dict>
@@ -158,12 +122,48 @@
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./AppIcon.appiconset/[][iphone][60x60][][][2x][][]</string>
+				<string>./AppIcon.appiconset/[][iphone][29x29][][][3x][][]</string>
 			</array>
 			<key>catalog</key>
 			<string>/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
-			<string>The file "iosicon-12.png" for the image set "AppIcon" does not exist.</string>
+			<string>The file "iosicon-15.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][ipad][76x76][][][2x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "iosicon-2.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][ipad][40x40][][][1x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "iosicon-5.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][ipad][29x29][][][2x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "iosicon-6.png" for the image set "AppIcon" does not exist.</string>
 			<key>type</key>
 			<string>Missing Content</string>
 		</dict>
@@ -176,6 +176,30 @@
 			<string>/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
 			<string>The file "iosicon-4.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][iphone][60x60][][][2x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "iosicon-12.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][iphone][40x40][][][3x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "iosicon-13.png" for the image set "AppIcon" does not exist.</string>
 			<key>type</key>
 			<string>Missing Content</string>
 		</dict>
@@ -200,30 +224,6 @@
 			<string>/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
 			<string>The file "iosicon-3.png" for the image set "AppIcon" does not exist.</string>
-			<key>type</key>
-			<string>Missing Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./AppIcon.appiconset/[][iphone][40x40][][][3x][][]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The file "iosicon-13.png" for the image set "AppIcon" does not exist.</string>
-			<key>type</key>
-			<string>Missing Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./AppIcon.appiconset/[][iphone][29x29][][][2x][][]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The file "iosicon-17.png" for the image set "AppIcon" does not exist.</string>
 			<key>type</key>
 			<string>Missing Content</string>
 		</dict>
