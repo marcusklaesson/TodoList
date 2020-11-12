@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList/TodoList.csproj",
+    "projectUniqueName": "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList/TodoList.csproj",
     "projectName": "TodoList",
-    "projectPath": "/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList/TodoList.csproj",
-    "outputPath": "/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList/obj/",
+    "projectPath": "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList/TodoList.csproj",
+    "outputPath": "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netstandard2.0"

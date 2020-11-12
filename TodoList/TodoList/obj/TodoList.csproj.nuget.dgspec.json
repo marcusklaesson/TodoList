@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList/TodoList.csproj": {}
+    "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList/TodoList.csproj": {}
   },
   "projects": {
-    "/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList/TodoList.csproj": {
+    "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList/TodoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList/TodoList.csproj",
+        "projectUniqueName": "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList/TodoList.csproj",
         "projectName": "TodoList",
-        "projectPath": "/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList/TodoList.csproj",
-        "packagesPath": "/Users/cyrille/.nuget/packages/",
-        "outputPath": "/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList/obj/",
+        "projectPath": "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList/TodoList.csproj",
+        "packagesPath": "/Users/marcusklaesson/.nuget/packages/",
+        "outputPath": "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/cyrille/.nuget/NuGet/NuGet.Config"
+          "/Users/marcusklaesson/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"

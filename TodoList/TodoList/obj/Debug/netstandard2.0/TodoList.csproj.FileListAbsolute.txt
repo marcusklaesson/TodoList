@@ -39,3 +39,4 @@
 /Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList/obj/Debug/netstandard2.0/TodoList.dll
 /Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList/obj/Debug/netstandard2.0/TodoList.pdb
+/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList/obj/Debug/netstandard2.0/AddTodoItem.xaml.g.cs
