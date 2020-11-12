@@ -2319,7 +2319,6 @@
       "Xamarin.Android.Support.v7.AppCompat >= 28.0.0.3",
       "Xamarin.Android.Support.v7.CardView >= 28.0.0.3",
       "Xamarin.Android.Support.v7.MediaRouter >= 28.0.0.3",
-      "Xamarin.Essentials >= 1.6.0-pre3",
       "Xamarin.Forms >= 4.4.0.991640",
       "sqlite-net-pcl >= 1.7.335"
     ]
@@ -2382,10 +2381,6 @@
           "Xamarin.Android.Support.v7.MediaRouter": {
             "target": "Package",
             "version": "[28.0.0.3, )"
-          },
-          "Xamarin.Essentials": {
-            "target": "Package",
-            "version": "[1.6.0-pre3, )"
           },
           "Xamarin.Forms": {
             "target": "Package",

@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "MD/VTt3xRcBlkQ+Ftf72uUl5tX2Dhcc75X4r0FLxFEe3xu5O80pAtwowmhf2bspKh/nmBM4mQtxbq4da5Hh5yA==",
+=======
+  "dgSpecHash": "MmK9fvl7sx8bK9Oq2DI9vEwAI2tsn5/whhBpAI1GbkZ74JtjDdK7/45lUXGt567f+aCX84LeiOFLFI/6md3frQ==",
+>>>>>>> 4c110306942110d266cbd5950d63b87b3218aa3a
   "success": true,
   "projectFilePath": "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList.iOS/TodoList.iOS.csproj",
   "expectedPackageFiles": [

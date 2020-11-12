@@ -1,7 +1,7 @@
 using TodoList.ViewModels;
+using Xamarin.Essentials;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using Xamarin.Essentials;
 
 namespace TodoList.Views
 {
@@ -12,6 +12,8 @@ namespace TodoList.Views
         {
             InitializeComponent ();
             BindingContext = new TodoListViewModel(Navigation);
+
+     
             ThemeInfo.Text = $"The current app theme is {AppInfo.RequestedTheme}";
             Vibration.Vibrate();
            
@@ -36,14 +38,13 @@ namespace TodoList.Views
         public string SomeImage
         {
             get { return string.Format("@Images/tododroid.png"); }
+
         }
 
         protected override async void OnAppearing()
         {
-            
             base.OnAppearing();
             await (BindingContext as TodoListViewModel).RefreshTaskList();
-            Vibration.Vibrate();
         }
     }
 }

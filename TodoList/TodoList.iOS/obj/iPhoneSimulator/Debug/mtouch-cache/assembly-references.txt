@@ -30,5 +30,8 @@
 /Users/marcusklaesson/.nuget/packages/sqlitepclraw.bundle_green/2.0.3/lib/Xamarin.iOS10/SQLitePCLRaw.batteries_v2.dll
 /Users/marcusklaesson/.nuget/packages/sqlitepclraw.bundle_green/2.0.3/lib/Xamarin.iOS10/SQLitePCLRaw.nativelibrary.dll
 /Users/marcusklaesson/.nuget/packages/sqlitepclraw.provider.dynamic_cdecl/2.0.3/lib/netstandard2.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+<<<<<<< HEAD
 /Users/marcusklaesson/.nuget/packages/xamarin.essentials/1.6.0-pre3/lib/xamarinios10/Xamarin.Essentials.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/14.0.0.0/lib/mono/Xamarin.iOS/OpenTK-1.0.dll
+=======
+>>>>>>> 4c110306942110d266cbd5950d63b87b3218aa3a

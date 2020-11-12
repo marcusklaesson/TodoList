@@ -1617,7 +1617,6 @@
     "Xamarin.iOS,Version=v1.0": [
       "PropertyChanged.Fody >= 3.3.0",
       "TodoList >= 1.0.0",
-      "Xamarin.Essentials >= 1.6.0-pre3",
       "Xamarin.Forms >= 4.4.0.991640",
       "sqlite-net-pcl >= 1.7.335"
     ]
@@ -1660,10 +1659,6 @@
           "PropertyChanged.Fody": {
             "target": "Package",
             "version": "[3.3.0, )"
-          },
-          "Xamarin.Essentials": {
-            "target": "Package",
-            "version": "[1.6.0-pre3, )"
           },
           "Xamarin.Forms": {
             "target": "Package",

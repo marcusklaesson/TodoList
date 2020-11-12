@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "b8+wdGq7KpkgqJhHs8aCsqHJl1reTcggW/4OQVJf3VTll8nKTrWevlioqt/mSIe/FBA5oiJSZT1VX05JqqkoYQ==",
+=======
+  "dgSpecHash": "kNTXDjKeBhOjXZniFhJqd38dPYP6eqhX+b8FvnRdp3v8Ys1sQr2wHf7Tb8yeip2qo+7vG7POe0e8csjE+LVStw==",
+>>>>>>> 4c110306942110d266cbd5950d63b87b3218aa3a
   "success": true,
   "projectFilePath": "/Users/marcusklaesson/RiderProjects/TodoList/TodoList/TodoList.Android/TodoList.Android.csproj",
   "expectedPackageFiles": [
