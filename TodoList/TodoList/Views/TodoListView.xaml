@@ -13,6 +13,7 @@
                 <Setter Property="TextColor" Value="#667966"/>
                 <Setter Property="FontSize" Value="20"/>
             </Style>
+          
         </ResourceDictionary>
     </ContentPage.Resources>
     <ContentPage.Content>
@@ -38,6 +39,17 @@
             
             <Button Command="{Binding AddItem}" Text="Add Todo" FontSize="24" />
             <Label x:Name="ThemeInfo" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" Style="{StaticResource LabelStyle}"/>
+            <Label x:Name="PlatformX" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Style="{StaticResource LabelStyle}"/>
+            <StackLayout Margin="20,35,20,20">
+                <Image Source="todoios.png"
+                       HeightRequest="300" />
+            </StackLayout>
+            
+            <Image>
+                <Image.Source>
+                    <FileImageSource File="{Binding SomeImage}" />
+                </Image.Source>
+            </Image>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
