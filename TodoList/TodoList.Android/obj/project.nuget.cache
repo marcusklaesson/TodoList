@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7NKmAkG0VOhnhwyG14pj0WURMpokX+oePfrWDIXp4Ja0ZpUoPTYOgGjoQ2nw9jQif3UAp5MPnTt7I9sZSJxWkg==",
+  "dgSpecHash": "kNTXDjKeBhOjXZniFhJqd38dPYP6eqhX+b8FvnRdp3v8Ys1sQr2wHf7Tb8yeip2qo+7vG7POe0e8csjE+LVStw==",
   "success": true,
   "projectFilePath": "/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.Android/TodoList.Android.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "/Users/cyrille/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.0.3/sqlitepclraw.provider.e_sqlite3.2.0.3.nupkg.sha512",
     "/Users/cyrille/.nuget/packages/system.buffers/4.4.0/system.buffers.4.4.0.nupkg.sha512",
     "/Users/cyrille/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/cyrille/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/cyrille/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "/Users/cyrille/.nuget/packages/xamarin.android.arch.core.common/1.1.1.3/xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "/Users/cyrille/.nuget/packages/xamarin.android.arch.core.runtime/1.1.1.3/xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",
@@ -53,6 +54,7 @@
     "/Users/cyrille/.nuget/packages/xamarin.android.support.vector.drawable/28.0.0.3/xamarin.android.support.vector.drawable.28.0.0.3.nupkg.sha512",
     "/Users/cyrille/.nuget/packages/xamarin.android.support.versionedparcelable/28.0.0.3/xamarin.android.support.versionedparcelable.28.0.0.3.nupkg.sha512",
     "/Users/cyrille/.nuget/packages/xamarin.android.support.viewpager/28.0.0.3/xamarin.android.support.viewpager.28.0.0.3.nupkg.sha512",
+    "/Users/cyrille/.nuget/packages/xamarin.essentials/1.6.0-pre3/xamarin.essentials.1.6.0-pre3.nupkg.sha512",
     "/Users/cyrille/.nuget/packages/xamarin.forms/4.4.0.991640/xamarin.forms.4.4.0.991640.nupkg.sha512"
   ],
   "logs": []

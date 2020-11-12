@@ -177,12 +177,6 @@
 /Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/bin/iPhoneSimulator/Debug/TodoList.dll
 /Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/bin/iPhoneSimulator/Debug/TodoList.pdb
-/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/ibtool/_BundleResourceWithLogicalName.items
-/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/actool/_PartialAppManifest.items
-/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/actool/_BundleResourceWithLogicalName.items
-/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/coremlc/_PartialAppManifest.items
-/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/coremlc/_BundleResourceWithLogicalName.items
-/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/optimized/
 /Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/TodoList.iOS.csprojAssemblyReference.cache
 /Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/TodoList.iOS.csproj.CoreCompileInputs.cache
 /Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/TodoList.iOS.csproj.Fody.CopyLocal.cache
@@ -190,3 +184,15 @@
 /Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/TodoList.iOS.csproj.CopyComplete
 /Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/TodoList.iOS.exe
 /Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/TodoList.iOS.pdb
+<<<<<<< HEAD
+||||||| merged common ancestors
+=======
+/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/actool/_PartialAppManifest.items
+/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/actool/_BundleResourceWithLogicalName.items
+/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/coremlc/_PartialAppManifest.items
+/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.1/optimized/
+>>>>>>> cyrille
+/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
