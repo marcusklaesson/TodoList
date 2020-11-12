@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "A3PeGC8JXr6TEGnN9/ypHnYD0pswtTj5E4Lw9lCK9f5i6wSmRkEWvdDfvmlSmHIuuD/+rPRttQ4PNxeHPdkqcQ==",
+  "dgSpecHash": "MmK9fvl7sx8bK9Oq2DI9vEwAI2tsn5/whhBpAI1GbkZ74JtjDdK7/45lUXGt567f+aCX84LeiOFLFI/6md3frQ==",
   "success": true,
   "projectFilePath": "/Users/cyrille/Desktop/todoLabbC#/TodoList/TodoList/TodoList.iOS/TodoList.iOS.csproj",
   "expectedPackageFiles": [
@@ -12,7 +12,9 @@
     "/Users/cyrille/.nuget/packages/sqlitepclraw.provider.dynamic_cdecl/2.0.3/sqlitepclraw.provider.dynamic_cdecl.2.0.3.nupkg.sha512",
     "/Users/cyrille/.nuget/packages/system.buffers/4.4.0/system.buffers.4.4.0.nupkg.sha512",
     "/Users/cyrille/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/cyrille/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/cyrille/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "/Users/cyrille/.nuget/packages/xamarin.essentials/1.6.0-pre3/xamarin.essentials.1.6.0-pre3.nupkg.sha512",
     "/Users/cyrille/.nuget/packages/xamarin.forms/4.4.0.991640/xamarin.forms.4.4.0.991640.nupkg.sha512"
   ],
   "logs": []

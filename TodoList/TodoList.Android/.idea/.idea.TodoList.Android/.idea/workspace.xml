@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -23,6 +24,11 @@
       <change beforePath="$PROJECT_DIR$/../../.idea/.idea.TodoList/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/.idea.TodoList/riderModule.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../TodoList.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../../TodoList.sln" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/TodoList.Android.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/TodoList.Android.csprojAssemblyReference.cache" afterDir="false" />
+=======
+  <component name="ChangeListManager">
+    <list default="true" id="ed1d889c-5ee6-4290-bb51-e8a2920d521f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/.idea.TodoList/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/.idea.TodoList/riderModule.iml" afterDir="false" />
+>>>>>>> 8144d142b2cae77f3b4f60d05ca8c9e035ee94a6
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +38,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="1k8YolahEJQZeqXXAjPo1Kto7WT" />
+=======
+  <component name="ProjectId" id="1k8Y519P84iXq0V6NTVeGjNeZO9" />
+>>>>>>> 8144d142b2cae77f3b4f60d05ca8c9e035ee94a6
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -46,6 +56,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="9ad8f8a8-b953-476c-a745-b62abe77b08a" name="Default Changelist" comment="" />
       <created>1605083863933</created>
       <option name="number" value="Default" />
@@ -68,6 +79,22 @@
       </map>
     </option>
   </component>
+=======
+      <changelist id="ed1d889c-5ee6-4290-bb51-e8a2920d521f" name="Default Changelist" comment="" />
+      <created>1605083505832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605083505832</updated>
+      <workItem from="1605083515611" duration="71000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+>>>>>>> 8144d142b2cae77f3b4f60d05ca8c9e035ee94a6
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
